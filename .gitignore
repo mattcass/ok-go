@@ -1,0 +1,37 @@
+# Sass
+.sass-cache/
+.sass-cache/*
+
+# NPM
+node_modules/
+
+# Jekyll
+_site/
+
+# Editors
+*.esproj
+*.tmproj
+*.tmproject
+tmtags
+.*.sw[a-z]
+*.un~
+Session.vim
+*.swp
+
+# Mac OSX
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db 
+Desktop.ini
+
+# SVN
+.svn/
+
+# Project
+assets/javascripts/dist/
+assets/stylesheets/css/
+
