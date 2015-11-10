@@ -1,1 +1,3 @@
-# FTS-gulp
+# ok-go
+
+A base framework for quickly starting projects
