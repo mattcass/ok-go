@@ -3,7 +3,6 @@
 *   Base Style Framework:
 *     github.com/freshtilledsoil/base-style-framework
 *     Version 1.0.2
-*     Last Updated: 09.24.2015
 *
 *     Beyond Normalization, a base set of markup styling and
 *     patterns to provide an easily configurable head-start
@@ -14,9 +13,8 @@
 *
 ********************************************************************/
 
-@import
-        'config/__import',
-        'base/__import',
-        'layout/__import',
-        'components/__import',
-        'vendor/__import';
+@import         'config/__import';
+@import         'base/__import';
+@import         'layout/__import';
+@import         'components/__import';
+@import         'vendor/__import';
